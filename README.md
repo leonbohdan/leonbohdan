@@ -1,9 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Bohdan Leonets</h1>
 <h3 align="center">Front-end developer</h3>
 
-<section align="center">
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leonbohdan)](https://github.com/anuraghazra/github-readme-stats)
-</section>
+[![Bohdan's github stats](https://github-readme-stats.vercel.app/api?username=leonbohdan)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 Here are some ideas to get you started:
