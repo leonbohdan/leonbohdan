@@ -1,6 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Bohdan Leonets</h1>
 <h3 align="center">Front-end developer</h3>
 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Revolving%20Hearts.png" alt="Revolving Hearts" width="25" height="25" />  [![Bohdan Leonets profile views](https://u8views.com/api/v1/github/profiles/66413363/views/day-week-month-total-count.svg)](https://u8views.com/github/leonbohdan)
+
 [![Bohdan's github stats](https://github-readme-stats.vercel.app/api?username=leonbohdan)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
