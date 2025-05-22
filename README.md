@@ -3,6 +3,10 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Revolving%20Hearts.png" alt="Revolving Hearts" width="25" height="25" />  [![Bohdan Leonets profile views](https://u8views.com/api/v1/github/profiles/66413363/views/day-week-month-total-count.svg)](https://u8views.com/github/leonbohdan)
 
+<p align="center">
+  <img src="./assets/banner.jpg" alt="Banner" width="100%"/>
+</p>
+
 [![Bohdan's github stats](https://github-readme-stats.vercel.app/api?username=leonbohdan)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
