@@ -6,7 +6,8 @@
   <source media="(prefers-color-scheme: light)" srcset="./assets/skatebording-light.gif#gh-light-mode-only">
   <img alt="Process" src="./assets/skatebording.gif">
 </picture>
-<img src="./assets/skatebording.gif" alt="Revolving Hearts" width="25" height="25" />  [![Bohdan Leonets profile views](https://u8views.com/api/v1/github/profiles/66413363/views/day-week-month-total-count.svg)](https://u8views.com/github/leonbohdan)
+
+<img src="./assets/skateboarding.gif" alt="Process" width="25" height="25" />  [![Bohdan Leonets profile views](https://u8views.com/api/v1/github/profiles/66413363/views/day-week-month-total-count.svg)](https://u8views.com/github/leonbohdan)
 
 <p align="center">
   <img src="./assets/banner1.png" alt="Banner" width="100%"/>
