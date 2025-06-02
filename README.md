@@ -7,13 +7,16 @@
     <source media="(prefers-color-scheme: light)" srcset="./assets/skateboarding-light.gif#gh-light-mode-only">
     <img alt="Process" src="./assets/skatebording.gif" width="25" height="25" style="display: inline-block; vertical-align: middle;">
   </picture>
+  
   <a href="https://u8views.com/github/leonbohdan" style="display: inline-block; vertical-align: middle;">
     <img src="https://u8views.com/api/v1/github/profiles/66413363/views/day-week-month-total-count.svg" alt="Bohdan Leonets profile views">
   </a>
 </p>
 
 <p align="center">
-  <img src="./assets/banner1.png" alt="Banner" width="100%"/>
+  <a href="https://www.linkedin.com/in/bohdan-leonets/" style="display: inline-block; vertical-align: middle;">
+    <img src="./assets/banner1.png" alt="Bohdan Leonets LinkedIn" width="100%"/>
+  </a>
 </p>
 
 [![Bohdan's github stats](https://github-readme-stats.vercel.app/api?username=leonbohdan)](https://github.com/anuraghazra/github-readme-stats)
