@@ -19,7 +19,7 @@
   </a>
 </p>
 
-[![Bohdan's github stats](https://github-readme-stats.vercel.app/api?username=leonbohdan)](https://github.com/anuraghazra/github-readme-stats)
+[![Bohdan's github stats](https://github-readme-stats.vercel.app/api?username=leonbohdan&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 Here are some ideas to get you started:
