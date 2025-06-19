@@ -23,6 +23,14 @@
 
 - 🌱I am currently in the process of diving into and practising: **Nuxt** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="25" height="25" />
 
+<h2 align="center">Languages :</h3>
+
+
+| 🇺🇦 **Ukrainian** - Native | 🇬🇧 **English** - Intermediate |
+|---------------------------|------------------------------|
+| 🇩🇪 **German** - Pre-Intermediate | 🇵🇱 **Polish** - Pre-Intermediate |
+
+
 <!--
 Here are some ideas to get you started:
 
