@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Bohdan Leonets</h1>
-<h3 align="center">Frontend developer</h3>
+<h3 align="center">Full-stack developer</h3>
 
 <p align="left">
   <picture width="25" height="25">
@@ -19,10 +19,11 @@
   </a>
 </p>
 
-[![Bohdan's github stats](https://github-readme-stats.vercel.app/api?username=leonbohdan&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Bohdan's github stats](https://github-readme-stats.vercel.app/api?username=leonbohdan&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Bohdan's GitHub stats](https://github-stats-extended.vercel.app/api?username=leonbohdan&show_icons=true&theme=transparent)](https://github.com/stats-organization/github-stats-extended)
 
 
-- 🌱I am currently in the process of diving into and practising: **Vue, Nuxt, Typescript and Frontend Architectural principles** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="25" height="25" />
+- 🌱 Current main stack: **Fullstack Developer | Vue, Nuxt, Node.js, TypeScript, AI | PostgreSQL, MongoDB** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="25" height="25" />
 
 <h2 align="center">Languages :</h3>
 
