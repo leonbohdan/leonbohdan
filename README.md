@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Bohdan Leonets</h1>
-<h3 align="center">Full-stack developer</h3>
+<h3 align="center">Full-stack Developer</h3>
 
 <p align="left">
   <picture width="25" height="25">
@@ -14,8 +14,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bohdan-leonets/" style="display: inline-block; vertical-align: middle;">
-    <img src="./assets/banner1.png" alt="Bohdan Leonets LinkedIn" width="100%"/>
+  <a href="https://www.linkedin.com/in/bohdan-leonets/" style="display: inline-block; vertical-align: middle">
+    <img src="./assets/banner1_1.png" alt="Bohdan Leonets LinkedIn" width="100%"/>
   </a>
 </p>
 
