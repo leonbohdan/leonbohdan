@@ -22,13 +22,18 @@
 [![Bohdan's GitHub stats](https://github-stats-extended.vercel.app/api?username=leonbohdan&show_icons=true&theme=transparent)](https://github.com/stats-organization/github-stats-extended)
 
 
-- 🌱 **Vue, Nuxt, Node.js, TypeScript, AI | PostgreSQL, MongoDB** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="25" height="25" />
+- 🌱 **Vue, Nuxt, Node.js, Nest.js, TypeScript, AI | PostgreSQL, MongoDB** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="25" height="25" />
 
-<h2 align="center">Languages :</h3>
+<h2>About</h2>
+<p>
+  No challenge holds me back — I love figuring out unfamiliar things and quickly mastering the unknown. 
+  What inspires me most is shipping new features and building products that make a real difference 🚀
+</p>
 
+<h2>Languages</h2>
 
 | 🇺🇦 **Ukrainian** - Native | 🇬🇧 **English** - Intermediate |
-|---------------------------|------------------------------|
+|:---------------------------|:------------------------------|
 | 🇩🇪 **German** - Pre-Intermediate | 🇵🇱 **Polish** - Pre-Intermediate |
 
 
