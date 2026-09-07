@@ -54,12 +54,20 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### 🌐 Languages
+<!--### 🌐 Languages
 
 * 🇺🇦 **Ukrainian** — Native
 * 🇬🇧 **English** — Intermediate
 * 🇩🇪 **German** — Pre-Intermediate
 * 🇵🇱 **Polish** — Pre-Intermediate
+-->
+
+### 🌐 Languages
+
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-005BBB?style=flat-square)
+![English](https://img.shields.io/badge/English-Intermediate-2ea44f?style=flat-square)
+![German](https://img.shields.io/badge/German-Pre--Intermediate-lightgrey?style=flat-square)
+![Polish](https://img.shields.io/badge/Polish-Pre--Intermediate-lightgrey?style=flat-square)
 
 <!--### Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=vue,nuxtjs,ts,nodejs,nestjs,postgres,mongodb,firebase,git,docker,tailwind)](https://skillicons.dev)
@@ -71,10 +79,17 @@
   </a>
 </p>-->
 
+### 📊 GitHub Stats
+
 [![Bohdan's GitHub stats](https://github-stats-extended.vercel.app/api?username=leonbohdan&show_icons=true&theme=transparent&count_private=true&hide_rank=true)](https://github.com/stats-organization/github-stats-extended)
 
-### Contacts
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bohdan-leonets)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/lbwkm)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:leonetsbogdan@gmail.com)
+---
+
+### 🤝 Connect with Me
+
+Have a question, proposal, or just want to talk tech? Feel free to reach out:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bohdan-leonets)
+[![Telegram](https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lbwkm)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonetsbogdan@gmail.com)
 
